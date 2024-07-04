@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 8,
+      "name": "Monitor",
+      "price": "249.99",
+      "image": "https://placehold.co/400"
+    },
+    {
+      "id": 9,
+      "name": "Keyboard",
+      "price": "99.99",
+      "image": "https://placehold.co/400"
+    },
+    {
+      "id": 10,
+      "name": "Mouse",
+      "price": "49.99",
+      "image": "https://placehold.co/400"
+    }
+  ]
+}
